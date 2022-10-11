@@ -1,10 +1,10 @@
-// Arquivo SASS 
-import'./scss/index.scss'
+// Arquivos SASS
+import './scss/index.scss'
 
-//Dependencias
+// Dependencias
 import 'jquery'
 import 'bootstrap'
 
-//Arq JS
+// Meus arquivos JS
 import './js/core/includes'
 import './js/plugins/cityButtons'
