@@ -1,4 +1,3 @@
 
-# Galeria
-"# Galeria" 
-"# Galeria" 
+ Galeria
+
